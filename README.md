@@ -3,7 +3,7 @@
 - 🔭 Proud Co-creator of NextView  ...
 
 
-💻 🛠️ ⚙️ Languages and Tools
+**💻 🛠️ ⚙️ Languages and Tools**
 \
 \
 &nbsp; &nbsp;
