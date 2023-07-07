@@ -4,46 +4,30 @@
 
 
 💻 🛠️ ⚙️ Languages and Tools
-<br/>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+\
+\
 &nbsp; &nbsp;
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img height="25" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jest.svg">
-
-<img height="25" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webpack-Dark.svg">
-
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-TypeScript
-Docker
-HTML5
-CSS3
-Sass
-Node.js
-Express
-React
-Redux
-SQL
-MySQL
-MongoDB
-Visual Studio Code
-Git
-Terminal
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg"> &nbsp; &nbsp;
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/kubernetes.svg"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/prometheus.svg"> &nbsp; &nbsp;
+<img height="25" src="https://avatars.githubusercontent.com/u/49998002?s=280&v=4"> &nbsp; &nbsp;
+<img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg"> &nbsp; &nbsp;
 
 <!--
 **evramdawd/evramdawd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
