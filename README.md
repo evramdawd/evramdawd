@@ -1,9 +1,12 @@
-### 👋 Hi there - I'm Evram, Software Engineer | Maker
-**Here's a bit about me**
-- 🔭 Proud Co-creator of NextView  ...
+### 👋 Hi there - I'm Evram, Software Engineer & Maker
+**Here's a bit about me:** <br> 
+Ever-Curious | Love to Build, Break, & Fix | Always Tinkering | Run on Coffee ☕
+- 🔭 Proud Co-creator of <a href="https://github.com/oslabs-beta/NextView">NextView</a> - an Open Source Product for <a href="https://github.com/evramdawd/next.js">Next.js</a> Observability via <a href="https://github.com/open-telemetry">OpenTelemetry</a>
+- 🥾 National Parks Enthusiast (Angels Landing ⛰️)
+- 🧄 Always double the amount of garlic in a recipe
+***
 
-
-**💻 🛠️ ⚙️ Languages and Tools**
+**💻 &nbsp;🛠️&nbsp;⚙️ &nbsp;Languages and Tools:**
 \
 \
 &nbsp; &nbsp;
@@ -31,6 +34,12 @@
 <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/prometheus.svg"> &nbsp; &nbsp;
 <img height="25" src="https://avatars.githubusercontent.com/u/49998002?s=280&v=4"> &nbsp; &nbsp;
 <img height="25" src="https://github.com/get-icon/geticon/blob/master/icons/aws.svg"> &nbsp; &nbsp;
+
+---
+✍️ Medium Articles:
+- <a href="https://medium.com/@evramdawd/introducing-nextview-a-next-js-observability-platform-2a010fcc39">Introducing NextView: A Next.js Observability Platform</a>
+
+
 
 <!--
 **evramdawd/evramdawd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
